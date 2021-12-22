@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mAishtiyaque/Track/static/css/main.2b8820cb.chunk.css",
+    "main.js": "/mAishtiyaque/Track/static/js/main.97e04d5b.chunk.js",
+    "main.js.map": "/mAishtiyaque/Track/static/js/main.97e04d5b.chunk.js.map",
+    "runtime-main.js": "/mAishtiyaque/Track/static/js/runtime-main.70509434.js",
+    "runtime-main.js.map": "/mAishtiyaque/Track/static/js/runtime-main.70509434.js.map",
+    "static/js/2.37105dec.chunk.js": "/mAishtiyaque/Track/static/js/2.37105dec.chunk.js",
+    "static/js/2.37105dec.chunk.js.map": "/mAishtiyaque/Track/static/js/2.37105dec.chunk.js.map",
+    "static/js/3.4fc4cc6f.chunk.js": "/mAishtiyaque/Track/static/js/3.4fc4cc6f.chunk.js",
+    "static/js/3.4fc4cc6f.chunk.js.map": "/mAishtiyaque/Track/static/js/3.4fc4cc6f.chunk.js.map",
+    "index.html": "/mAishtiyaque/Track/index.html",
+    "static/css/main.2b8820cb.chunk.css.map": "/mAishtiyaque/Track/static/css/main.2b8820cb.chunk.css.map",
+    "static/js/2.37105dec.chunk.js.LICENSE.txt": "/mAishtiyaque/Track/static/js/2.37105dec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70509434.js",
+    "static/js/2.37105dec.chunk.js",
+    "static/css/main.2b8820cb.chunk.css",
+    "static/js/main.97e04d5b.chunk.js"
+  ]
+}
